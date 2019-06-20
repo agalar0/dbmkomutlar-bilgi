@@ -1,0 +1,7 @@
+{"name":"rolbilgi","permissions":"NONE","restriction":"1","actions":[{"condition":"0","comparison":"0","value":"1","iftrue":"3","iftrueVal":"4","iffalse":"0","iffalseVal":"","name":"Check Parameters"},{"title":"Yanlış Rol Girdi!","author":"","color":"RANDOM","url":"","authorIcon":"","authorUrl":"","imageUrl":"","thumbUrl":"","timestamp":"true","text":"","year":"","month":"","day":"","hour":"","minute":"","second":"","storage":"1","varName":"failed","name":"Create Embed Message"},{"storage":"1","varName":"failed","message":"Bir parça rol bilgisi alamadın! İşte doğru format!\n**{prefix}rolbilgi roladı**","name":"Set Embed Description"},{"storage":"1","varName":"failed","channel":"0","varName2":"","storage3":"0","varName3":"","name":"Send Embed Message"},{"name":"End Action Sequence"},{"info":"0","infoIndex":"1","storage":"1","varName":"rolename","name":"Store Command Params"},
+
+
+
+
+
+Mehmet Aga
