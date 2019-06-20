@@ -1,0 +1,2 @@
+# dbmkomutlar-bilgi
+Mehmetaga
